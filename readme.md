@@ -11,6 +11,10 @@ By defining additional parsing methods on the WebsiteBase class is possible to a
 ## How to run
 ``` python arbitrage.py ```
 
+## Example output
+This is an example of a real test where a profitable arbitrage with 0.16% profit was found.
+![Alt text](img/output.png "Title")
+
 ## Known Problems
 - For some reason Betway private API sometimes does not return the BetRadarID, thus ignoring some bets.
 - Some bets are not being correctly parsed from Betway.
