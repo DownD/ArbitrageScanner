@@ -1,0 +1,7 @@
+SBTech api docs:
+https://github.com/WeKnowSports/SportsDataAPI/wiki/Filtering-and-querying-Events
+
+
+#Get sports = https://sbapi.sbtech.com/betwaypt/sportsdata/v2/events?query=$filter=sportId%20eq%20'1'&includeMarkets=none&timeRange=OneDay
+#Get market = https://sbapi.sbtech.com/betwaypt/sportsdata/v2/markets?query=$filter=eventId%20eq%20'24452270'
+

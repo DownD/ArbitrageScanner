@@ -1,0 +1,7 @@
+BETANO
+
+Uses the following request to get a list of matches where $SPORT$ is the specific sport
+"https://www.betano.pt/api/sport/$SPORT$?sort=StartTime&req=la,l,s,tn,stnf,c,mb,mbl"
+
+Uses the following request to get a specific match, the $ODD_URL$ is a field that is tretrivied when the matches are listed
+MATCH_URL = "https://www.betano.pt/api$ODD_URL$?bt=7&req=la,s,tn,stnf,c"

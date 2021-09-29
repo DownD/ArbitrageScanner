@@ -1,0 +1,19 @@
+Game endpoint
+https://offer.cdn.begmedia.com/api/pub/v4/events/3000959904?application=1024&countrycode=pt&language=pt&sitecode=ptpt
+
+List by sport type
+https://offer.cdn.begmedia.com/api/pub/v4/events?application=1024&countrycode=pt&fetchMultipleDefaultMarkets=true&language=pt&limit=60&offset=0&sitecode=ptpt&sortBy=ByLiveRankingPreliveDate&sportIds=1
+
+limit value changes with scroll
+Types   - 8 voley
+        - 52 XII Rugby
+        - 5 XV Rugby
+        - Nascar 24
+        - Motociclismo 15
+        - Fotebol americano 14
+        - f1 3
+        - basquet 4
+        - Baseball 20
+        - andeball 9
+        - hoquei 13
+        - tenis 2
