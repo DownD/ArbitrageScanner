@@ -22,5 +22,5 @@ This is an example of a real test where a profitable arbitrage with 0.16% profit
 
 
 ## Remarks
-Passing debug=True to each bookmaker on arbitrage.py will produce a json file for every match or bet where a parsing error has ocurred, also changing the logging info to WARNING or info will produce more logs.
-There ir also an ``` eval.ipynb ``` that might come in handy to debug feature bookmakers.
+Passing debug=True to each bookmaker on arbitrage.py will produce a json file for every match or bet where a parsing error has ocurred, also changing the logging info to WARNING will produce more logs.
+There ir also an ``` eval.ipynb ``` that might come in handy to debug future bookmakers.
